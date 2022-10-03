@@ -8,12 +8,12 @@ Color schemes for [Cmder](https://cmder.app/) & [ConEmu](https://conemu.github.i
 
 - Flow
 
-![FLow color scheme](screenshot/Flow_sce.png?raw=true)  
+![FLow color scheme](screenshot/Flow_min.png?raw=true)  
 <br/>
 
 - Flow light
 
-![Flow light color scheme](screenshot/Flow_light_sce.png?raw=true)
+![Flow light color scheme](screenshot/Flow_light_min.png?raw=true)
 
 ## Setting
 
